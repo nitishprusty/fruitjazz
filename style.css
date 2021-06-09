@@ -1,0 +1,154 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+}
+.nav{
+    margin: 10px;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav li{
+    margin: 15px;
+    float: left;
+    text-align: right;
+    list-style: none;
+    line-height: 40px;
+    
+}
+#header h1{
+    text-align: right;
+    font-family: cursive;
+    line-height: 0.2px;
+    font-size: 20px;
+    color: rgba(0,0,0,0.5);
+    font-style: oblique;
+    padding-right: 5px;
+}
+
+#header{
+    background-color: blueviolet;
+    height: 170px;
+    width: 100%;
+}
+a{
+    color: black;
+    margin: 10px;
+    font-size: 19px;
+    text-decoration: none;
+    transition: 0.5s linear;
+    
+}
+li button {
+    border: 1px solid black;
+    font-size: 19px;
+    border-radius: 20rem;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    
+    
+}
+li span{
+    font-size: 25px;
+    color: white;
+    border:1.5px solid black;
+    border-radius: 5rem;
+    padding: 5px;
+    background-color: black;
+}
+ header img{
+     text-align: right;
+    
+}
+#hhh  p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: rgb(102, 99, 99);
+    padding: 6px;
+    font-style: italic;
+    
+
+}
+#hhh{
+    background-color: black;
+}
+.ppp  {
+    text-align: center;
+    margin: 5px;
+    font-size: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    color: darkslategray;
+    
+}
+.ppp img{
+    height: 200px;
+    width: auto;
+    margin: 5px;
+    border: 2px solid black;
+    border-radius: 1.5rem;
+    
+}
+.ppp p{
+    padding: 5px;
+    font-size: 15px;
+    font-style: normal;
+}
+.ppp h2{
+    color: black;
+    padding: 0 5% 0 0;
+    font-style: normal;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     font-size: 25px;
+}
+#header img{
+    margin: 10px;
+    padding: 5px;
+    
+}
+#header {
+    text-align: right;
+}
+
+.eee ul{
+    margin: 5px;
+    text-align: center;
+}
+.eee ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline-flex;
+    color: cornflowerblue;
+    transition: 2s linear;
+    
+}
+.eee ul li i{
+    padding: 50px;
+    font-size: 39px;
+    
+}
+.endpage{
+    background: black;
+}
+.endpage p{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-style: oblique;
+    margin: 5px;
+}
+.endsen p{
+    font-size: 5px;
+}
+footer h5{
+    color: white;
+}
+
+
+    
+    
+    
+
